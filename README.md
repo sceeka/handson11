@@ -82,22 +82,6 @@ Each query includes a `LIMIT 10` condition to restrict the output for review.
 5. **Monthly Sales and Profit Growth Analysis**  
    Compute monthly totals and growth rates for sales and profits.
 
----
-
-## 📂 Project Structure
-
-```
-CLOUD-HANDSON-AWSCLOUDSERVICES/
-├── Output CSV Files/           # Query results exported from Athena
-│   ├── query1_cumulative_sales.csv
-│   ├── query2_unprofitable_hotspots.csv
-│   ├── query3_discounts_profitability.csv
-│   ├── query4_top3_profitable_products.csv
-│   └── query5_monthly_growth.csv
-├── CSV Files Screenshots.zip   # Screenshots of S3, IAM, CloudWatch, and Athena
-├── Cloud HandsOn AWS Web Services.pdf  # Detailed project documentation
-└── README.md                   # Project overview (this file)
-```
 
 ---
 
