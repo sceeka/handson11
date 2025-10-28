@@ -56,6 +56,10 @@ The dataset includes transaction-level sales data for various products, categori
 ### Screenshots
 
 
+<img width="1470" height="956" alt="Screenshot 2025-10-28 at 12 26 43 PM" src="https://github.com/user-attachments/assets/133a86eb-c88a-4150-848d-f9bf83a1ba66" />
+<img width="1470" height="956" alt="Screenshot 2025-10-28 at 12 26 34 PM" src="https://github.com/user-attachments/assets/4578617f-b716-4a70-828a-25d9abbcdc45" />
+<img width="1470" height="956" alt="Screenshot 2025-10-28 at 1 24 56 PM" src="https://github.com/user-attachments/assets/365387c2-6158-4576-9524-fbf0dacdc50f" />
+<img width="1470" height="956" alt="Screenshot 2025-10-28 at 1 19 35 PM" src="https://github.com/user-attachments/assets/a8fe19ed-3a01-4854-b6c1-01ea1d1edbd1" />
 
 
 
